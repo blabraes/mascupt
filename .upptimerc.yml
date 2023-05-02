@@ -15,6 +15,10 @@ sites:
     url: https://macc.masesorias.cl/   
   - name: Matriz de Riesgo Individual
     url: http://mri.masesorias.cl    
+  - name: Moodle Clientes Diversos
+    url: https://cursos.mcap.cl/  
+  - name: Portal eCommerce
+    url: https://mcap.cl/      
     
 assignees:
   - blabraes
