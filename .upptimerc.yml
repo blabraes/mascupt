@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Pagina de Integración Rindegastos
+    url: http://rdmasc.duckdns.org/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
@@ -20,7 +20,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /mascupt
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.mutual.cl/portal/wcm/connect/27fc3c30-885b-421e-9cfd-a272312e587f/iso-mutual.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-27fc3c30-885b-421e-9cfd-a272312e587f-nd99KKK
   name: mascupt
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
