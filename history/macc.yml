@@ -1,7 +1,7 @@
 url: https://macc.masesorias.cl/
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2023-05-21T23:20:56.141Z
+status: down
+code: 500
+responseTime: 1510
+lastUpdated: 2023-05-22T21:18:04.254Z
 startTime: Tue May 02 2023 15:48:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
