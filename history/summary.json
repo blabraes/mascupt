@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 676,
-    "timeDay": 891,
-    "timeWeek": 795,
-    "timeMonth": 739,
-    "timeYear": 676,
+    "time": 675,
+    "timeDay": 586,
+    "timeWeek": 796,
+    "timeMonth": 732,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2023-05-08": 33
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 563,
-    "timeDay": 470,
-    "timeWeek": 551,
+    "time": 562,
+    "timeDay": 462,
+    "timeWeek": 541,
     "timeMonth": 699,
-    "timeYear": 563,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2023-05-08": 33
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 510,
-    "timeDay": 580,
-    "timeWeek": 559,
-    "timeMonth": 501,
-    "timeYear": 510,
+    "time": 509,
+    "timeDay": 467,
+    "timeWeek": 563,
+    "timeMonth": 500,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2023-05-08": 32
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 376,
-    "timeDay": 478,
-    "timeWeek": 418,
-    "timeMonth": 377,
-    "timeYear": 376,
+    "time": 375,
+    "timeDay": 263,
+    "timeWeek": 416,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2023-05-08": 32
     }
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/macc.masesorias.cl.ico",
     "slug": "macc",
     "status": "up",
-    "uptime": "60.68%",
+    "uptime": "60.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.15%",
-    "uptimeYear": "60.68%",
-    "time": 709,
-    "timeDay": 743,
+    "uptimeMonth": "67.44%",
+    "uptimeYear": "60.96%",
+    "time": 708,
+    "timeDay": 567,
     "timeWeek": 766,
-    "timeMonth": 758,
-    "timeYear": 709,
+    "timeMonth": 750,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2023-08-31": 1356,
       "2023-08-30": 1440,
@@ -162,16 +162,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mri.masesorias.cl.ico",
     "slug": "matriz-de-riesgo-individual",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 399,
-    "timeDay": 413,
-    "timeWeek": 438,
-    "timeMonth": 436,
-    "timeYear": 399,
+    "uptimeYear": "99.99%",
+    "time": 398,
+    "timeDay": 264,
+    "timeWeek": 424,
+    "timeMonth": 429,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2023-05-08": 31
     }
@@ -187,11 +187,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 350,
-    "timeWeek": 386,
-    "timeMonth": 361,
-    "timeYear": 321,
+    "time": 320,
+    "timeDay": 251,
+    "timeWeek": 382,
+    "timeMonth": 353,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -205,11 +205,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1191,
-    "timeDay": 1523,
-    "timeWeek": 1261,
-    "timeMonth": 1314,
-    "timeYear": 1191,
+    "time": 1192,
+    "timeDay": 1220,
+    "timeWeek": 1301,
+    "timeMonth": 1309,
+    "timeYear": 1192,
     "dailyMinutesDown": {}
   }
 ]
