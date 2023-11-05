@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 675,
-    "timeDay": 745,
-    "timeWeek": 689,
-    "timeMonth": 681,
+    "timeDay": 659,
+    "timeWeek": 696,
+    "timeMonth": 679,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2023-05-08": 33
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 559,
-    "timeDay": 671,
-    "timeWeek": 549,
+    "timeDay": 539,
+    "timeWeek": 558,
     "timeMonth": 552,
     "timeYear": 559,
     "dailyMinutesDown": {
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 513,
-    "timeDay": 522,
-    "timeWeek": 493,
-    "timeMonth": 538,
+    "timeDay": 432,
+    "timeWeek": 491,
+    "timeMonth": 534,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2023-05-08": 32
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 381,
-    "timeDay": 489,
-    "timeWeek": 499,
-    "timeMonth": 406,
+    "timeDay": 319,
+    "timeWeek": 495,
+    "timeMonth": 403,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2023-05-08": 32
@@ -85,14 +85,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/macc.masesorias.cl.ico",
     "slug": "macc",
     "status": "up",
-    "uptime": "70.02%",
+    "uptime": "70.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.02%",
+    "uptimeYear": "70.18%",
     "time": 710,
-    "timeDay": 735,
-    "timeWeek": 703,
+    "timeDay": 619,
+    "timeWeek": 710,
     "timeMonth": 730,
     "timeYear": 710,
     "dailyMinutesDown": {
@@ -168,9 +168,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 404,
-    "timeDay": 809,
-    "timeWeek": 467,
-    "timeMonth": 454,
+    "timeDay": 401,
+    "timeWeek": 490,
+    "timeMonth": 453,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2023-05-08": 31
@@ -188,9 +188,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 430,
-    "timeWeek": 328,
-    "timeMonth": 328,
+    "timeDay": 306,
+    "timeWeek": 338,
+    "timeMonth": 327,
     "timeYear": 319,
     "dailyMinutesDown": {}
   },
@@ -205,11 +205,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1195,
-    "timeDay": 1208,
-    "timeWeek": 1221,
-    "timeMonth": 1220,
-    "timeYear": 1195,
+    "time": 1196,
+    "timeDay": 1333,
+    "timeWeek": 1276,
+    "timeMonth": 1229,
+    "timeYear": 1196,
     "dailyMinutesDown": {}
   }
 ]
