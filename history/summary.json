@@ -85,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/macc.masesorias.cl.ico",
     "slug": "macc",
     "status": "up",
-    "uptime": "78.06%",
+    "uptime": "78.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.06%",
+    "uptimeYear": "78.07%",
     "time": 701,
     "timeDay": 552,
     "timeWeek": 697,
@@ -199,9 +199,9 @@
     "url": "https://mcap.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/mcap.cl.ico",
     "slug": "portal-e-commerce",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -210,6 +210,8 @@
     "timeWeek": 1329,
     "timeMonth": 1160,
     "timeYear": 1190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-11": 0
+    }
   }
 ]
