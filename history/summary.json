@@ -5,20 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.solicitudept.cl.ico",
     "slug": "solicitud-de-ept",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 680,
     "timeDay": 706,
     "timeWeek": 683,
     "timeMonth": 716,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2024-05-06": 4,
-      "2024-01-16": 45,
-      "2023-05-08": 33
+      "2024-01-16": 45
     }
   },
   {
@@ -38,8 +36,7 @@
     "timeMonth": 1043,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-01-16": 44,
-      "2023-05-08": 33
+      "2024-01-16": 44
     }
   },
   {
@@ -59,8 +56,7 @@
     "timeMonth": 545,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2024-01-16": 44,
-      "2023-05-08": 32
+      "2024-01-16": 44
     }
   },
   {
@@ -80,8 +76,7 @@
     "timeMonth": 511,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2024-01-16": 43,
-      "2023-05-08": 32
+      "2024-01-16": 43
     }
   },
   {
@@ -158,8 +153,7 @@
       "2023-07-09": 1327,
       "2023-05-24": 946,
       "2023-05-23": 1440,
-      "2023-05-22": 59,
-      "2023-05-08": 31
+      "2023-05-22": 59
     }
   },
   {
@@ -179,8 +173,7 @@
     "timeMonth": 395,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-01-16": 42,
-      "2023-05-08": 31
+      "2024-01-16": 42
     }
   },
   {
@@ -189,18 +182,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cursos.mcap.cl.ico",
     "slug": "moodle-clientes-diversos",
     "status": "down",
-    "uptime": "94.31%",
+    "uptime": "94.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.79%",
-    "uptimeYear": "94.23%",
+    "uptimeMonth": "30.57%",
+    "uptimeYear": "94.21%",
     "time": 307,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 276,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2024-05-06": 1399,
+      "2024-05-07": 56,
+      "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
