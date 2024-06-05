@@ -9,8 +9,6 @@ sites:
     url: http://sur.otecmutual.cl
   - name: SACC Minería
     url: http://norte.otecmutual.cl/
-  - name: SACC Clientes Diversos
-    url: http://centro.otecmutual.cl
   - name: MACC
     url: https://macc.masesorias.cl/   
   - name: Matriz de Riesgo Individual
