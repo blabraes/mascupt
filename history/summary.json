@@ -31,10 +31,10 @@
     "url": "http://sur.otecmutual.cl",
     "icon": "https://icons.duckduckgo.com/ip3/sur.otecmutual.cl.ico",
     "slug": "sacc-sur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 568,
@@ -43,6 +43,7 @@
     "timeMonth": 541,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2025-05-28": 1,
       "2025-04-21": 18,
       "2024-08-16": 19
     }
@@ -52,10 +53,10 @@
     "url": "http://norte.otecmutual.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/norte.otecmutual.cl.ico",
     "slug": "sacc-mineria",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 534,
@@ -64,6 +65,7 @@
     "timeMonth": 509,
     "timeYear": 541,
     "dailyMinutesDown": {
+      "2025-05-28": 1,
       "2025-04-21": 18,
       "2024-08-16": 19
     }
@@ -74,7 +76,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/macc.masesorias.cl.ico",
     "slug": "macc",
     "status": "up",
-    "uptime": "92.62%",
+    "uptime": "92.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -116,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cursos.mcap.cl.ico",
     "slug": "moodle-clientes-diversos",
     "status": "down",
-    "uptime": "46.17%",
+    "uptime": "46.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -127,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-28": 82,
+      "2025-05-28": 1343,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
