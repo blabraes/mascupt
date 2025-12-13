@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 546,
-    "timeDay": 212,
-    "timeWeek": 775,
+    "timeDay": 374,
+    "timeWeek": 814,
     "timeMonth": 374,
     "timeYear": 536,
     "dailyMinutesDown": {
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 529,
-    "timeDay": 204,
-    "timeWeek": 200,
-    "timeMonth": 204,
+    "timeDay": 388,
+    "timeWeek": 243,
+    "timeMonth": 208,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2025-08-11": 23,
@@ -58,10 +58,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 536,
-    "timeDay": 207,
-    "timeWeek": 203,
-    "timeMonth": 195,
+    "time": 535,
+    "timeDay": 395,
+    "timeWeek": 233,
+    "timeMonth": 200,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-08-11": 23,
@@ -76,16 +76,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/macc.masesorias.cl.ico",
     "slug": "macc",
     "status": "up",
-    "uptime": "94.09%",
+    "uptime": "94.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 530,
-    "timeDay": 147,
-    "timeWeek": 208,
-    "timeMonth": 212,
-    "timeYear": 515,
+    "timeDay": 395,
+    "timeWeek": 238,
+    "timeMonth": 213,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2025-10-12": 802,
       "2025-03-27": 138,
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 577,
-    "timeDay": 319,
-    "timeWeek": 376,
-    "timeMonth": 366,
-    "timeYear": 644,
+    "time": 578,
+    "timeDay": 619,
+    "timeWeek": 438,
+    "timeMonth": 370,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-10-12": 802
     }
@@ -120,7 +120,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cursos.mcap.cl.ico",
     "slug": "moodle-clientes-diversos",
     "status": "down",
-    "uptime": "36.59%",
+    "uptime": "36.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -131,7 +131,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-12": 85,
+      "2025-12-13": 81,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -494,8 +495,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -509,11 +509,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2608,
-    "timeDay": 1148,
-    "timeWeek": 1304,
-    "timeMonth": 1380,
-    "timeYear": 2480,
+    "time": 2605,
+    "timeDay": 1389,
+    "timeWeek": 1334,
+    "timeMonth": 1368,
+    "timeYear": 2478,
     "dailyMinutesDown": {
       "2025-06-03": 19
     }
