@@ -10,18 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 544,
-    "timeDay": 73,
-    "timeWeek": 200,
-    "timeMonth": 363,
-    "timeYear": 533,
+    "time": 543,
+    "timeDay": 164,
+    "timeWeek": 205,
+    "timeMonth": 358,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2025-10-12": 803,
       "2025-04-21": 18,
       "2025-03-27": 139,
       "2025-03-26": 69,
-      "2024-12-17": 52,
-      "2024-12-16": 32
+      "2024-12-17": 52
     }
   },
   {
@@ -35,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 527,
-    "timeDay": 132,
-    "timeWeek": 209,
-    "timeMonth": 200,
-    "timeYear": 526,
+    "time": 526,
+    "timeDay": 118,
+    "timeWeek": 211,
+    "timeMonth": 194,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2025-08-11": 23,
       "2025-08-08": 258,
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 534,
-    "timeDay": 48,
-    "timeWeek": 208,
-    "timeMonth": 194,
-    "timeYear": 521,
+    "time": 533,
+    "timeDay": 130,
+    "timeWeek": 212,
+    "timeMonth": 190,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2025-08-11": 23,
       "2025-08-08": 258,
@@ -76,22 +75,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/macc.masesorias.cl.ico",
     "slug": "macc",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 528,
-    "timeDay": 132,
-    "timeWeek": 219,
-    "timeMonth": 208,
-    "timeYear": 512,
+    "time": 527,
+    "timeDay": 144,
+    "timeWeek": 234,
+    "timeMonth": 204,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2025-10-12": 802,
       "2025-03-27": 138,
       "2025-03-26": 68,
-      "2024-12-17": 52,
-      "2024-12-16": 31
+      "2024-12-17": 52
     }
   },
   {
@@ -106,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 577,
-    "timeDay": 173,
-    "timeWeek": 366,
-    "timeMonth": 364,
+    "timeDay": 160,
+    "timeWeek": 368,
+    "timeMonth": 354,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2025-10-12": 802
@@ -120,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cursos.mcap.cl.ico",
     "slug": "moodle-clientes-diversos",
     "status": "down",
-    "uptime": "36.48%",
+    "uptime": "36.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -131,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-15": 88,
+      "2025-12-16": 86,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -494,8 +493,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
@@ -504,16 +502,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcap.cl.ico",
     "slug": "portal-e-commerce",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2599,
-    "timeDay": 1238,
-    "timeWeek": 1260,
-    "timeMonth": 1338,
-    "timeYear": 2470,
+    "time": 2596,
+    "timeDay": 846,
+    "timeWeek": 1217,
+    "timeMonth": 1311,
+    "timeYear": 2467,
     "dailyMinutesDown": {
       "2025-06-03": 19
     }
