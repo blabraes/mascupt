@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.solicitudept.cl.ico",
     "slug": "solicitud-de-ept",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.88%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.82%",
     "time": 461,
     "timeDay": 137,
     "timeWeek": 135,
     "timeMonth": 190,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2026-03-31": 1,
+      "2026-04-01": 146,
+      "2026-03-31": 4,
       "2025-10-12": 803,
       "2025-04-21": 18
     }
@@ -73,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/macc.masesorias.cl.ico",
     "slug": "macc",
     "status": "down",
-    "uptime": "94.70%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptime": "94.69%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.82%",
     "time": 444,
     "timeDay": 178,
     "timeWeek": 200,
     "timeMonth": 195,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2026-03-31": 1,
+      "2026-04-01": 146,
+      "2026-03-31": 4,
       "2025-10-12": 802
     }
   },
@@ -94,18 +96,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mri.masesorias.cl.ico",
     "slug": "matriz-de-riesgo-individual",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.93%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.82%",
     "time": 570,
     "timeDay": 158,
     "timeWeek": 183,
     "timeMonth": 455,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2026-03-31": 1,
+      "2026-04-01": 146,
+      "2026-03-31": 4,
       "2025-10-12": 802
     }
   },
@@ -126,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-31": 1437,
+      "2026-04-01": 146,
+      "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
@@ -489,8 +493,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   },
   {
