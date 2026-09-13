@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.80%",
-    "time": 331,
-    "timeDay": 226,
-    "timeWeek": 184,
-    "timeMonth": 218,
+    "time": 330,
+    "timeDay": 173,
+    "timeWeek": 167,
+    "timeMonth": 220,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-10-12": 803,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 216,
-    "timeWeek": 181,
-    "timeMonth": 189,
+    "timeDay": 175,
+    "timeWeek": 148,
+    "timeMonth": 192,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -51,9 +51,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 131,
-    "timeWeek": 249,
+    "time": 332,
+    "timeDay": 122,
+    "timeWeek": 232,
     "timeMonth": 207,
     "timeYear": 188,
     "dailyMinutesDown": {}
@@ -69,9 +69,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 312,
-    "timeDay": 213,
-    "timeWeek": 167,
+    "time": 311,
+    "timeDay": 170,
+    "timeWeek": 151,
     "timeMonth": 186,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 539,
-    "timeDay": 447,
-    "timeWeek": 351,
-    "timeMonth": 334,
-    "timeYear": 381,
+    "timeDay": 325,
+    "timeWeek": 282,
+    "timeMonth": 335,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2025-10-12": 802,
       "2026-04-01": 172,
@@ -119,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-12": 1408,
+      "2026-09-13": 49,
+      "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
@@ -482,8 +483,7 @@
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
-      "2025-09-14": 1440,
-      "2025-09-13": 1440
+      "2025-09-14": 1440
     }
   },
   {
@@ -491,16 +491,16 @@
     "url": "https://mcap.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/mcap.cl.ico",
     "slug": "portal-e-commerce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "85.63%",
+    "uptimeDay": "85.60%",
     "uptimeWeek": "95.32%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "99.10%",
-    "time": 2512,
+    "time": 2511,
     "timeDay": 11193,
-    "timeWeek": 17089,
-    "timeMonth": 6596,
+    "timeWeek": 15857,
+    "timeMonth": 6758,
     "timeYear": 2426,
     "dailyMinutesDown": {
       "2026-01-02": 115,
@@ -516,7 +516,8 @@
       "2026-08-29": 192,
       "2026-09-06": 247,
       "2026-09-09": 17,
-      "2026-09-12": 207
+      "2026-09-12": 207,
+      "2026-09-13": 0
     }
   }
 ]
