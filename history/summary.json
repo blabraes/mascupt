@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/macc.masesorias.cl.ico",
     "slug": "macc",
     "status": "up",
-    "uptime": "95.53%",
+    "uptime": "95.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cursos.mcap.cl.ico",
     "slug": "moodle-clientes-diversos",
     "status": "down",
-    "uptime": "27.60%",
+    "uptime": "27.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 193,
+      "2026-10-19": 845,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -488,9 +488,9 @@
     "url": "https://mcap.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/mcap.cl.ico",
     "slug": "portal-e-commerce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "91.22%",
+    "uptimeDay": "91.20%",
     "uptimeWeek": "91.05%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.92%",
@@ -517,7 +517,8 @@
       "2026-09-13": 32,
       "2026-10-15": 578,
       "2026-10-17": 197,
-      "2026-10-18": 126
+      "2026-10-18": 126,
+      "2026-10-19": 0
     }
   }
 ]
