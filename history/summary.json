@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cursos.mcap.cl.ico",
     "slug": "moodle-clientes-diversos",
     "status": "down",
-    "uptime": "27.53%",
+    "uptime": "27.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 447,
+      "2026-10-22": 1078,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -488,17 +488,17 @@
     "url": "https://mcap.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/mcap.cl.ico",
     "slug": "portal-e-commerce",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "83.66%",
-    "uptimeMonth": "95.94%",
-    "uptimeYear": "98.76%",
-    "time": 2430,
-    "timeDay": 268,
-    "timeWeek": 1248,
-    "timeMonth": 1582,
-    "timeYear": 2492,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "50.08%",
+    "uptimeWeek": "81.84%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "98.64%",
+    "time": 2425,
+    "timeDay": 331,
+    "timeWeek": 1128,
+    "timeMonth": 1549,
+    "timeYear": 2486,
     "dailyMinutesDown": {
       "2026-01-02": 115,
       "2026-03-31": 284,
@@ -521,7 +521,7 @@
       "2026-10-19": 396,
       "2026-10-20": 97,
       "2026-10-21": 304,
-      "2026-10-22": 78
+      "2026-10-22": 709
     }
   }
 ]
