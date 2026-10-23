@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 278,
+      "2026-10-23": 574,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -488,17 +488,17 @@
     "url": "https://mcap.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/mcap.cl.ico",
     "slug": "portal-e-commerce",
-    "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "51.05%",
-    "uptimeWeek": "81.11%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "98.62%",
-    "time": 2420,
-    "timeDay": 532,
-    "timeWeek": 994,
-    "timeMonth": 1529,
-    "timeYear": 2483,
+    "status": "up",
+    "uptime": "99.06%",
+    "uptimeDay": "39.39%",
+    "uptimeWeek": "78.18%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "98.57%",
+    "time": 2414,
+    "timeDay": 520,
+    "timeWeek": 956,
+    "timeMonth": 1501,
+    "timeYear": 2478,
     "dailyMinutesDown": {
       "2026-01-02": 115,
       "2026-03-31": 284,
@@ -522,7 +522,7 @@
       "2026-10-20": 97,
       "2026-10-21": 304,
       "2026-10-22": 709,
-      "2026-10-23": 74
+      "2026-10-23": 370
     }
   }
 ]
